@@ -1,0 +1,5 @@
+!.lintstagedrc.js
+!.eslintrc.js
+!.prettierrc.js
+!lintstagedrc.js
+src/generated
